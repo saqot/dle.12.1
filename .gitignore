@@ -1,1 +1,5 @@
 .idea/*
+!engine/cache/.htaccess
+!engine/cache/system/.htaccess
+engine/cache/system/*
+engine/cache/*
